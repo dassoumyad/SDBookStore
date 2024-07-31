@@ -1,0 +1,80 @@
+[
+  {
+      "id": 1,
+      "name": "Story Book",
+      "title": "A thrilling adventure through enchanted lands and mystical creatures.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722236053~exp=1722239653~hmac=d8bca1a30336295402be304048edcf6dfafe21d9cf9b7294c5d40c1ce0cf7707&w=740"
+  },
+  {
+      "id": 2,
+      "name": "Story Book",
+      "title": "An epic tale of heroism, magic, and the quest for the ultimate truth.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722236053~exp=1722239653~hmac=d8bca1a30336295402be304048edcf6dfafe21d9cf9b7294c5d40c1ce0cf7707&w=740"
+  },
+  {
+      "id": 3,
+      "name": "Story Book",
+      "title": "Join a young hero on a journey of discovery and wonder.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722236053~exp=1722239653~hmac=d8bca1a30336295402be304048edcf6dfafe21d9cf9b7294c5d40c1ce0cf7707&w=740"
+  },
+  {
+      "id": 4,
+      "name": "Music Book",
+      "title": "Explore the rich history and theory behind timeless melodies.",
+      "price": 100,
+      "category": "",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722236053~exp=1722239653~hmac=d8bca1a30336295402be304048edcf6dfafe21d9cf9b7294c5d40c1ce0cf7707&w=740"
+  },
+  {
+      "id": 5,
+      "name": "Story Book",
+      "title": "A heartwarming story of friendship, courage, and love.",
+      "price": 0,
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722236053~exp=1722239653~hmac=d8bca1a30336295402be304048edcf6dfafe21d9cf9b7294c5d40c1ce0cf7707&w=740"
+  },
+  {
+      "id": 6,
+      "name": "Comedy Book",
+      "title": "Laugh out loud with this collection of hilarious anecdotes and jokes.",
+      "price": 20,
+      "category": "Funny",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722236053~exp=1722239653~hmac=d8bca1a30336295402be304048edcf6dfafe21d9cf9b7294c5d40c1ce0cf7707&w=740"
+  },
+  {
+      "id": 7,
+      "name": "Story Book",
+      "title": "Embark on a fantastical voyage filled with mystery and wonder.",
+      "price": 0,
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722236053~exp=1722239653~hmac=d8bca1a30336295402be304048edcf6dfafe21d9cf9b7294c5d40c1ce0cf7707&w=740"
+  },
+  {
+      "id": 8,
+      "name": "Story Book",
+      "title": "A magical adventure that will captivate readers of all ages.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722236053~exp=1722239653~hmac=d8bca1a30336295402be304048edcf6dfafe21d9cf9b7294c5d40c1ce0cf7707&w=740"
+  },
+  {
+      "id": 9,
+      "name": "Food Book",
+      "title": "Delicious recipes and culinary tips from around the world.",
+      "price": 200,
+      "category": "Food",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722236053~exp=1722239653~hmac=d8bca1a30336295402be304048edcf6dfafe21d9cf9b7294c5d40c1ce0cf7707&w=740"
+  },
+  {
+      "id": 10,
+      "name": "Story Book",
+      "title": "A journey through enchanted forests and mystical realms.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722236053~exp=1722239653~hmac=d8bca1a30336295402be304048edcf6dfafe21d9cf9b7294c5d40c1ce0cf7707&w=740"
+  }
+]
