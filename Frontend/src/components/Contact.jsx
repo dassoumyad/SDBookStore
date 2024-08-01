@@ -8,7 +8,7 @@ const Contact = () => {
 
     const onSubmit = async (data) => {
         try {
-            const response = await axios.post('http://localhost:4001/message', data); // Update URL as needed
+            const response = await axios.post('https://sdbookstore.onrender.com/message', data); // Update URL as needed
             console.log(response.data);
             toast.success('Message sent successfully!');
         } catch (error) {
