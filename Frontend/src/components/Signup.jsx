@@ -16,7 +16,7 @@ function Signup() {
       password: data.password
     };
     try {
-      const res = await axios.post('https://sdbookstore.onrender.com/user/signup', userInfo);
+      const res = await axios.post('http://localhost:4001/user/signup', userInfo);
       console.log(res.data);
       toast.success('Signup successful!');
       localStorage.setItem('user', JSON.stringify(res.data.user));
